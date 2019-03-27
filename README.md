@@ -1,4 +1,4 @@
-### reddit.py
+### reddit_comment_nuker/reddit.py
 
 A quick python script I threw together that will nuke all of the comments on your account.
 In order to use this script, you will need to do the following:
