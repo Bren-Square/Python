@@ -25,3 +25,5 @@ Setup Documentation coming when I have free time (which is never).
 A wordcloud generator that I made when I was bored. It scrapes Reddit and grabs the most frequent words for the past hour from top level comments and then creates a wordcloud from that. 
 
 Documentation for setup coming when I have free time (which is never). 
+
+Eventually, I will get around to documenting the rest of this. I hope. 
