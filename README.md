@@ -14,4 +14,14 @@ In order to use this script, you will need to do the following:
 
 If Everything is set, simply run `python reddit.py` and wait. The script doesn't output anything but if it is working you should begin to see sequential comments deleted from your account. 
 
-Enjoy. 
+### flashcards/flash.py
+
+A flashcard application I made for myself when I was bored. It hits the google translate API and generates random flashcards for you. 
+
+Setup Documentation coming when I have free time (which is never). 
+
+### wordcloud/wordcloud.py
+
+A wordcloud generator that I made when I was bored. It scrapes Reddit and grabs the most frequent words for the past hour from top level comments and then creates a wordcloud from that. 
+
+Documentation for setup coming when I have free time (which is never). 
